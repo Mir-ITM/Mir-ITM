@@ -5,4 +5,5 @@
 🛠️ Databases: SQL, FoxPro, Access  
 🌐 Networks: Cisco Routers, CCTV, LAN/WAN/SAT  
 📫 Reach me: mir.mirekhtiyari@gmail.com | Spoken in Persian, Turkish,  German and English
+
 🌍 Seeking senior software or IT roles internationally | Open to relocation | Need visa sponsorship
